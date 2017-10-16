@@ -111,6 +111,12 @@ Before pulling any request, please read carefully what is written below. Make su
  
   直接使用你的commit的消息作为pull request的标题。如果需要补充信息，就写在Write那个窗格里面。在pull request之前，确保你已经通过fetch或者pull和主分支保持一致。
 
+### Issues 问题讨论
+
+- If you have any problem or want to share something, just open an issue in Issues.
+
+  如果有什么问题，就直接开一个issue吧，没有任何限制。最好能够学会将特定的commit或pull request引用到issue以方便大家定位问题。
+
 ## Credit 致谢
 
 All students from Class 64 and any other who ever contributes.
