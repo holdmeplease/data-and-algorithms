@@ -115,7 +115,7 @@ Before pulling any request, please read carefully what is written below. Make su
 
 - If you have any problem or want to share something, just open an issue in Issues.
 
-  如果有什么问题，就直接开一个issue吧，没有任何限制。最好能够学会将特定的commit或pull request引用到issue以方便大家定位问题。
+  如果对别人的算法有疑惑，或者自己在写代码中遇到了问题，就直接开一个issue吧，没有任何限制。最好能够学会将特定的commit或pull request引用到issue以方便大家定位问题。
 
 ## Credit 致谢
 
