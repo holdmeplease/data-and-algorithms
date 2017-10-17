@@ -97,6 +97,8 @@ Before pulling any request, please read carefully what is written below. Make su
   名字 题目 做了什么
 
   Examples:
+  0. Initial commit to Fibonacci by Robert
+     应睿向Fibonacci问题第一次提交了代码
   1. Add README to Fibonacci by Robert
      应睿向Fibonacci问题添加了README
   2. Fix a NULL pointer bug in Fibonacci by Robert
