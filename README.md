@@ -52,6 +52,10 @@ Before pulling any request, please read carefully what is written below. Make su
     for(int i=0;i<n&&j<m&&(a+b==3);++i)
   ```
 
+- Please pay attention to the encoding. Use proper code editors such as VS Code, Sublime, Atom, or Notepad++ to edit your code and `README.md` in UTF-8 encoding. [VS Code](https://code.visualstudio.com/) is preferred since it supports the Markdown preview.
+  
+  请特别注意文件的编码。使用合适的代码编辑器，如VS Code，Sublime，Atom，或者Notepad++，确保你的文件编码为UTF-8（注：Windows自带的记事本默认编码不是UTF-8，会导致上传的文件乱码）。建议使用[VS Code](https://code.visualstudio.com/)，因为VS Code自带Markdown预览功能，方便测试`README.md`的语法正确。
+
 ### README 说明
 
 - You need to provide an explanatory documentation along with the code source file.
