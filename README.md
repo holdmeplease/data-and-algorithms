@@ -4,6 +4,43 @@ Solutions and thoughts of Data and Algorithms
 
 关于《数据与算法》的算法解法以及思考
 
+## Get Started 快速上手
+
+### Push and pull request 上传
+
+1. Fork本仓库为自己的仓库。
+
+2. Clone自己的仓库到本地。将%及其包围的字符串改为自己的用户名。
+``` shell
+git clone https://github.com/%YOUR USERNAME%/data-and-algorithms.git
+cd data-and-algorithms
+```
+
+3. 在对应问题下创建以自己姓名命名的文件夹，将源代码、截图和README.md放入文件夹。将%及其包围的字符串改为题目名称和自己的姓名。
+
+``` shell
+git add .
+git commit -m "Initial commit to %PROBLEM NAME% by %YOUR NAME%"
+git push
+```
+
+4. 提交pull request，pull request的标题为`Initial commit to %PROBLEM NAME% by %YOUR NAME%`。将%及其包围的字符串改为题目名称和自己的姓名。
+
+5. 关注pull request的状态，如果不通过需要继续修改再提交。
+
+### Pull and push again 更新仓库再上传
+
+当此仓库比自己的仓库更新时，需要先将自己fork的仓库更新，再上传。
+
+1. 添加本仓库为远程库并更新本地仓库。
+
+``` shell
+git remote add ee64 https://github.com/ee64/data-and-algorithms.git
+git pull ee64 master
+```
+
+2. 从上传步骤3继续。
+
 ## Introduction 简介
 
 This is part of a project started by students from Class 64 of Department of Electronic Engineering, Tsinghua University.The project's aim is to enable students to learn cutting-edge techniques and prepare for the future's job.
