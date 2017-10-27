@@ -6,17 +6,24 @@ Solutions and thoughts of Data and Algorithms
 
 ## Get Started 快速上手
 
+### Attention 请注意
+
+请在题目截止提交时间的10天后提交pull request。
+
 ### Push and pull request 上传
 
 1. Fork本仓库为自己的仓库。
 
 2. Clone自己的仓库到本地。将%及其包围的字符串改为自己的用户名。
+
 ``` shell
 git clone https://github.com/%YOUR USERNAME%/data-and-algorithms.git
 cd data-and-algorithms
 ```
 
-3. 在对应问题下创建以自己姓名命名的文件夹，将源代码、截图和README.md放入文件夹。将%及其包围的字符串改为题目名称和自己的姓名。
+3. 认真阅读此README中的[要求](#requirements-要求)部分。
+
+4. 在对应问题下创建以自己姓名命名的文件夹，将源代码、截图和README.md放入文件夹。将%及其包围的字符串改为题目名称和自己的姓名。
 
 ``` shell
 git add .
@@ -24,9 +31,9 @@ git commit -m "Initial commit to %PROBLEM NAME% by %YOUR NAME%"
 git push
 ```
 
-4. 提交pull request，pull request的标题为`Initial commit to %PROBLEM NAME% by %YOUR NAME%`。将%及其包围的字符串改为题目名称和自己的姓名。
+5. 提交pull request，pull request的标题为`Initial commit to %PROBLEM NAME% by %YOUR NAME%`。将%及其包围的字符串改为题目名称和自己的姓名。
 
-5. 关注pull request的状态，如果不通过需要继续修改再提交。
+6. 关注pull request的状态，如果不通过需要继续修改再提交。
 
 ### Pull and push again 更新仓库再上传
 
